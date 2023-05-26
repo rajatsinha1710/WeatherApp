@@ -63,7 +63,7 @@ For the autocomplete feature I have use Geo-location API from Google Cloud.
 
 ## Screenshots
 
-![App Screenshot](http:/Users/Dell/Downloads/Weather-App.jpg?raw=true "Weather-app")
+![App Screenshot](./src/assets/Weather-App.png?raw=true "Weather-app")
 
 
 ## Run Locally
